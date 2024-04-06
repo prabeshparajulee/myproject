@@ -1,1 +1,2 @@
-This repo is the hub of my all projects that I have done and currently doing!!
+This is the simple calculator project that I have done.
+You can contribute to this if you want!!
